@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-zu84wu.date-me.pro/sitemap.xml
